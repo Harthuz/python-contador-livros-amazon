@@ -1,4 +1,5 @@
-	Título	Comentários	Preço	Quantidade	Possui
+Lista de Desejos Livros
+Título	Comentários	Preço	Quantidade	Possui
 Sir Richard Francis Burton	Sir Richard Francis Burton
 de Edward Rice, Denise Bottmann (Capa comum) |		R$ 48,93	1	0
 Ignorância: Uma história global	Ignorância: Uma história global
@@ -371,3 +372,5 @@ Guia completo da cor	Guia completo da cor
 de Tom Fraser, Adam Banks (Capa comum) |		R$ 142,25	1	0
 A psicologia das cores.: Como actuam as cores sobre os sentimentos e a razão	A psicologia das cores.: Como actuam as cores sobre os sentimentos e a razão
 de Eva Heller (Capa comum) |		-	1	0
+
+Explicar
